@@ -11,7 +11,7 @@ A quick preview of how the theme will look on your computer :
 
 ## Installation
 
-### rerequisites
+### Prerequisites
 Make sure GRUB2 is installed on your system (this is the default on the vast majority of Linux distributions).
 
 ### Manual Method
