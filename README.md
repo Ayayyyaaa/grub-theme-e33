@@ -5,8 +5,8 @@ Un thème immersif pour le chargeur d'amorçage GRUB, inspiré par l'univers et 
 ## 🎥 Aperçu du thème
 
 Voici à quoi ressemble le thème une fois installé sur votre machine :
+https://github.com/user-attachments/assets/41dd813f-e97f-4676-ac74-c59b7cd6f5b8
 
-> **Note au créateur :** Sur GitHub ou GitLab, vous pouvez simplement glisser-déposer votre fichier vidéo (`.mp4`, `.webm`) directement ici dans l'éditeur de texte. GitHub générera automatiquement un lien vidéo compatible ! 
 
 
 ---
