@@ -16,7 +16,7 @@ terminal-border: "0"
     font = "Dersu Uzala brush Regular 54"
     color = "#d4af37"
     align = "center"
-    text = "Pour ceux qui viendront après..."
+    text = "For those whe come after..."
 }
 
 + boot_menu {
@@ -24,14 +24,14 @@ terminal-border: "0"
     width = 55%
     top = 25%
     height = 700
-    item_height = 74
-    item_padding = 0
-    icon_width = 10
+    item_height = 94
+    item_padding = 20
+    icon_width = 180
     icon_height = 0
-    item_icon_space = 150
+    item_icon_space = 30
     item_spacing = 5
     item_font =  "Dersu Uzala brush Regular 54"
-    item_color = "#000000"
+    item_color = "#FFFFFF"
     selected_item_font = "Dersu Uzala brush Regular 54"
     selected_item_color = "#d4af37"
     selected_item_pixmap_style = "select_*.png"
