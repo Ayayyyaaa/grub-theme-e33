@@ -59,4 +59,4 @@ Make sure GRUB2 is installed on your system (this is the default on the vast maj
 
 * Theme created by Ayayyyaaa.
 * Inspired by the universe of *Clair Obscur: Expedition 33* (Sandfall Interactive).
-* Distributed under the License.
+* Distributed under the GPL-3.0 License.
